@@ -6,3 +6,5 @@ A chrome extension for food/shopping that verifies ingredients/bobby approved
 Chrome extension for seeing the betting lines for any game while you are streaming it on your device
 
 Chrome extension for prospecting within nutrislice, using openai's api to verify information
+
+other ideas for software
