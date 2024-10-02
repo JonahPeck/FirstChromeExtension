@@ -5,4 +5,3 @@ A chrome extension for food/shopping that verifies ingredients/bobby approved
 
 Chrome extension for seeing the betting lines for any game while you are streaming it on your device
 
-adding something add ing something
