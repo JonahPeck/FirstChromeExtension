@@ -5,4 +5,6 @@ A chrome extension for food/shopping that verifies ingredients/bobby approved
 
 Chrome extension for seeing the betting lines for any game while you are streaming it on your device
 
-need to look into chrome extension development 
+https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#types
+
+don't make excuses don't be lazy
