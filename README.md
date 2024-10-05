@@ -7,4 +7,3 @@ Chrome extension for seeing the betting lines for any game while you are streami
 
 https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#types
 
-don't make excuses don't be lazy
